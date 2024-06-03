@@ -1,51 +1,49 @@
 variants.sku,key,variants.key,variants.images.url,variants.images.label,variants.images.dimensions.w,variants.images.dimensions.h
-PL-21,id-green-07,indoor-flower-07,https://tanykos.github.io/tempimg/id_green_7_1.png,indoor flower,,
-PL-21,id-green-07,indoor-flower-07,https://tanykos.github.io/tempimg/id_green_7_2.png,indoor flower,,
-PL-21,id-green-07,indoor-flower-07,https://tanykos.github.io/tempimg/id_green_7_3.png,indoor flower,,
-PL-20,od-green-02,outdoor-flower-03,https://tanykos.github.io/tempimg/od_green_2_1.png,outdoor flower,200,
-PL-20,od-green-02,outdoor-flower-03,https://tanykos.github.io/tempimg/od_green_2_2.png,outdoor flower,200,
-PL-20,od-green-02,outdoor-flower-03,https://tanykos.github.io/tempimg/od_green_2_3.png,outdoor flower,200,
-PL-19,od-green-01,outdoor-flower-02,https://tanykos.github.io/tempimg/od_green_1_1.png,outdoor flower,200,
-PL-19,od-green-01,outdoor-flower-02,https://tanykos.github.io/tempimg/od_green_1_2.png,outdoor flower,200,
-PL-19,od-green-01,outdoor-flower-02,https://tanykos.github.io/tempimg/od_green_1_3.png,outdoor flower,200,
-PL-18,od-flow-01,outdoor-flower-01,https://tanykos.github.io/tempimg/od_flo_1_1.png,outdoor flower,200,
-PL-18,od-flow-01,outdoor-flower-01,https://tanykos.github.io/tempimg/od_flo_1_2.png,outdoor flower,200,
-PL-17,id-orchid-03,indoor-flower-12,https://tanykos.github.io/tempimg/id_orth_3_1.png,indoor flower,200,
-PL-17,id-orchid-03,indoor-flower-12,https://tanykos.github.io/tempimg/id_orth_3_2.png,indoor flower,200,
-PL-17,id-orchid-03,indoor-flower-12,https://tanykos.github.io/tempimg/id_orth_3_3.png,indoor flower,200,
-PL-16,id-orchid-02,indoor-flower-11,https://tanykos.github.io/tempimg/id_orh_2_1.png,indoor flower,,
-PL-15,id-orchid-01,indoor-flower-10,https://tanykos.github.io/tempimg/id_orh_1_1.png,indoor flower,,
-PL-15,id-orchid-01,indoor-flower-10,https://tanykos.github.io/tempimg/id_orh_1_2.png,indoor flower,,
-PL-15,id-orchid-01,indoor-flower-10,https://tanykos.github.io/tempimg/id_orh_1_3.png,indoor flower,,
-PL-14,id-green-06,indoor-flower-09,https://tanykos.github.io/tempimg/id_green_6_1.png,indoor flower,,
-PL-13,id-green-05,indoor-flower-08,https://tanykos.github.io/tempimg/id_green_5_1.png,indoor flower,,
-PL-12,id-green-04,indoor-flower-07,https://tanykos.github.io/tempimg/id_green_4_1.png,indoor flower,,
-PL-11,id-green-03,indoor-flower-06,https://tanykos.github.io/tempimg/id_green_3_1.png,indoor flower,,
-PL-11,id-green-03,indoor-flower-06,https://tanykos.github.io/tempimg/id_green_3_2.png,indoor flower,,
-PL-11,id-green-03,indoor-flower-06,https://tanykos.github.io/tempimg/id_green_3_3.png,indoor flower,,
-PL-10,id-green-02,indoor-flower-05,https://tanykos.github.io/tempimg/id_green_2_1.png,indoor flower,,
-PL-10,id-green-02,indoor-flower-05,https://tanykos.github.io/tempimg/id_green_2_2.png,indoor flower,,
-PL-10,id-green-02,indoor-flower-05,https://tanykos.github.io/tempimg/id_green_2_3.png,indoor flower,,
-PL-09,id-green-01,indoor-flower-04,https://tanykos.github.io/tempimg/id_green_1_1.png,indoor flower,,
-PL-09,id-green-01,indoor-flower-04,https://tanykos.github.io/tempimg/id_green_1_2.png,indoor flower,,
-PL-08,id-flow-03,indoor-flower-03,https://tanykos.github.io/tempimg/id_flo_3_1.png,indoor flower,,
-PL-08,id-flow-03,indoor-flower-03,https://tanykos.github.io/tempimg/id_flo_3_2.png,indoor flower,,
-PL-08,id-flow-03,indoor-flower-03,https://tanykos.github.io/tempimg/id_flo_3_3.png,indoor flower,,
-PL-07,id-flow-02,indoor-flower-02,https://tanykos.github.io/tempimg/id_flo_2_1.png,indoor flower,,
-PL-06,id-flow-01,indoor-flower-01,https://tanykos.github.io/tempimg/id_flo_1_1.png,indoor flower,,
-PL-06,id-flow-01,indoor-flower-01,https://tanykos.github.io/tempimg/id_flo_1_2.png,indoor flower,,
-PL-06,id-flow-01,indoor-flower-01,https://tanykos.github.io/tempimg/id_flo_1_3.png,indoor flower,,
-PL-05,id-cact-05,cactus-05,https://tanykos.github.io/tempimg/id_cact_5_1.png,cactus,,
-PL-05,id-cact-05,cactus-05,https://tanykos.github.io/tempimg/id_cact_5_2.png,cactus,,
-PL-05,id-cact-05,cactus-05,https://tanykos.github.io/tempimg/id_cact_5_3.png,cactus,,
-PL-04,id-cact-04,cactus-04,https://tanykos.github.io/tempimg/id_cact_4_1.png,cactus,,
-PL-04,id-cact-04,cactus-04,https://tanykos.github.io/tempimg/id_cact_4_2.png,cactus,,
-PL-04,id-cact-04,cactus-04,https://tanykos.github.io/tempimg/id_cact_4_3.png,cactus,,
-PL-03,id-cact-03,cactus-03,https://tanykos.github.io/tempimg/id_cact_3_1.png,cactus,,
-PL-03,id-cact-03,cactus-03,https://tanykos.github.io/tempimg/id_cact_3_1.png,cactus,,
-PL-02,id-cact-02,cactus-02,https://tanykos.github.io/tempimg/id_cact_2_1.png,cactus,,
-PL-01,id-cact-01,cactus-01,https://tanykos.github.io/tempimg/id_cact_1_1.png,cactus,,
-PL-01,id-cact-01,cactus-01,https://tanykos.github.io/tempimg/id_cact_1_2.png,cactus,,
-PL-01,id-cact-01,cactus-01,https://tanykos.github.io/tempimg/id_cact_1_3.png,cactus,,
-PP-02,ceramic-pot-01,pp-var-key-02,https://tanykos.github.io/tempimg/pot_cer_1_1.png,pot,,
-PP-01,plastic-pots-01,pp-var-key-01,https://tanykos.github.io/tempimg/pot_plast_1_1.png,pot,,
+PL-21,id-green-07,indoor-flower-07,https://tanykos.github.io/tempimg/id_green_7_1.png,indoor flower,200,200
+PL-21,id-green-07,indoor-flower-07,https://tanykos.github.io/tempimg/id_green_7_2.png,indoor flower,200,200
+PL-21,id-green-07,indoor-flower-07,https://tanykos.github.io/tempimg/id_green_7_3.png,indoor flower,200,200
+PL-20,od-green-02,outdoor-flower-03,https://tanykos.github.io/tempimg/od_green_2_1.png,outdoor flower,200,200
+PL-20,od-green-02,outdoor-flower-03,https://tanykos.github.io/tempimg/od_green_2_2.png,outdoor flower,200,200
+PL-20,od-green-02,outdoor-flower-03,https://tanykos.github.io/tempimg/od_green_2_3.png,outdoor flower,200,200
+PL-19,od-green-01,outdoor-flower-02,https://tanykos.github.io/tempimg/od_green_1_1.png,outdoor flower,200,200
+PL-19,od-green-01,outdoor-flower-02,https://tanykos.github.io/tempimg/od_green_1_2.png,outdoor flower,200,200
+PL-19,od-green-01,outdoor-flower-02,https://tanykos.github.io/tempimg/od_green_1_3.png,outdoor flower,200,200
+PL-18,od-flow-01,outdoor-flower-01,https://tanykos.github.io/tempimg/od_flo_1_1.png,outdoor flower,200,200
+PL-18,od-flow-01,outdoor-flower-01,https://tanykos.github.io/tempimg/od_flo_1_2.png,outdoor flower,200,200
+PL-17,id-orchid-03,indoor-flower-12,https://tanykos.github.io/tempimg/id_orth_3_1.png,indoor flower,200,200
+PL-17,id-orchid-03,indoor-flower-12,https://tanykos.github.io/tempimg/id_orth_3_2.png,indoor flower,200,200
+PL-17,id-orchid-03,indoor-flower-12,https://tanykos.github.io/tempimg/id_orth_3_3.png,indoor flower,200,200
+PL-16,id-orchid-02,indoor-flower-11,https://tanykos.github.io/tempimg/id_orh_2_1.png,indoor flower,200,200
+PL-15,id-orchid-01,indoor-flower-10,https://tanykos.github.io/tempimg/id_orh_1_1.png,indoor flower,200,200
+PL-15,id-orchid-01,indoor-flower-10,https://tanykos.github.io/tempimg/id_orh_1_2.png,indoor flower,200,200
+PL-15,id-orchid-01,indoor-flower-10,https://tanykos.github.io/tempimg/id_orh_1_3.png,indoor flower,200,200
+PL-14,id-green-06,indoor-flower-09,https://tanykos.github.io/tempimg/id_green_6_1.png,indoor flower,200,200
+PL-13,id-green-05,indoor-flower-08,https://tanykos.github.io/tempimg/id_green_5_1.png,indoor flower,200,200
+PL-12,id-green-04,indoor-flower-07,https://tanykos.github.io/tempimg/id_green_4_1.png,indoor flower,200,200
+PL-11,id-green-03,indoor-flower-06,https://tanykos.github.io/tempimg/id_green_3_1.png,indoor flower,200,200
+PL-11,id-green-03,indoor-flower-06,https://tanykos.github.io/tempimg/id_green_3_2.png,indoor flower,200,200
+PL-11,id-green-03,indoor-flower-06,https://tanykos.github.io/tempimg/id_green_3_3.png,indoor flower,200,200
+PL-10,id-green-02,indoor-flower-05,https://tanykos.github.io/tempimg/id_green_2_1.png,indoor flower,200,200
+PL-10,id-green-02,indoor-flower-05,https://tanykos.github.io/tempimg/id_green_2_2.png,indoor flower,200,200
+PL-10,id-green-02,indoor-flower-05,https://tanykos.github.io/tempimg/id_green_2_3.png,indoor flower,200,200
+PL-09,id-green-01,indoor-flower-04,https://tanykos.github.io/tempimg/id_green_1_1.png,indoor flower,200,200
+PL-09,id-green-01,indoor-flower-04,https://tanykos.github.io/tempimg/id_green_1_2.png,indoor flower,200,200
+PL-08,id-flow-03,indoor-flower-03,https://tanykos.github.io/tempimg/id_flo_3_1.png,indoor flower,200,200
+PL-08,id-flow-03,indoor-flower-03,https://tanykos.github.io/tempimg/id_flo_3_2.png,indoor flower,200,200
+PL-08,id-flow-03,indoor-flower-03,https://tanykos.github.io/tempimg/id_flo_3_3.png,indoor flower,200,200
+PL-07,id-flow-02,indoor-flower-02,https://tanykos.github.io/tempimg/id_flo_2_1.png,indoor flower,200,200
+PL-06,id-flow-01,indoor-flower-01,https://tanykos.github.io/tempimg/id_flo_1_1.png,indoor flower,200,200
+PL-06,id-flow-01,indoor-flower-01,https://tanykos.github.io/tempimg/id_flo_1_2.png,indoor flower,200,200
+PL-06,id-flow-01,indoor-flower-01,https://tanykos.github.io/tempimg/id_flo_1_3.png,indoor flower,200,200
+PL-05,id-cact-05,cactus-05,https://tanykos.github.io/tempimg/id_cact_5_1.png,cactus,200,200
+PL-05,id-cact-05,cactus-05,https://tanykos.github.io/tempimg/id_cact_5_2.png,cactus,200,200
+PL-05,id-cact-05,cactus-05,https://tanykos.github.io/tempimg/id_cact_5_3.png,cactus,200,200
+PL-04,id-cact-04,cactus-04,https://tanykos.github.io/tempimg/id_cact_4_1.png,cactus,200,200
+PL-04,id-cact-04,cactus-04,https://tanykos.github.io/tempimg/id_cact_4_2.png,cactus,200,200
+PL-04,id-cact-04,cactus-04,https://tanykos.github.io/tempimg/id_cact_4_3.png,cactus,200,200
+PL-03,id-cact-03,cactus-03,https://tanykos.github.io/tempimg/id_cact_3_1.png,cactus,200,200
+PL-03,id-cact-03,cactus-03,https://tanykos.github.io/tempimg/id_cact_3_1.png,cactus,200,200
+PL-02,id-cact-02,cactus-02,https://tanykos.github.io/tempimg/id_cact_2_1.png,cactus,200,200
+PL-01,id-cact-01,cactus-01,https://tanykos.github.io/tempimg/id_cact_1_1.png,cactus,200,200
+PL-01,id-cact-01,cactus-01,https://tanykos.github.io/tempimg/id_cact_1_2.png,cactus,200,200
+PL-01,id-cact-01,cactus-01,https://tanykos.github.io/tempimg/id_cact_1_3.png,cactus,200,200
